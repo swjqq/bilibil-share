@@ -1,3 +1,4 @@
+#部分代码参考CSDN, 但是时间有点久, 记不清参考哪个帖子了
 from turtle import *
 #设置画板大小
 wight = 900
