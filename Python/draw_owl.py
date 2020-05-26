@@ -304,9 +304,9 @@ forward(78)
 up()
 goto(-300,-250)
 color(sign_color)
-write("十万九千七",font=("李旭科书法 v1.4",30))
+write("十万九千七",font=("微软雅黑",30))
 goto(-280,-300)
-write("2020年1月1日",font=("李旭科书法 v1.4",30))
+write("2020年1月1日",font=("微软雅黑",30))
 
 #隐藏海龟并结束
 hideturtle()
