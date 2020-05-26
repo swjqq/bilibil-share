@@ -35,7 +35,7 @@ eyelid_color = "#CBB6D7"    #眼帘
 feather_color1 = "#CCB3D3"  #胸脯
 feather_color2 = "#9377A7"  #羽毛
 foot_color = "#5E4133"      #脚
-sign_color = ("#8CCDED")    #签名
+sign_color = "#8CCDED"    #签名
 
 
 #树枝
