@@ -1,1 +1,1 @@
-bin视频文件，使用[此工具](https://www.bilibili.com/video/BV14B4y1E7kN/?share_source=copy_web&vd_source=d566c4debdbc1f345d192d2abafa3b67)生成，并在Arduino中使用[Arduino ESP32 filesystem uploader](https://github.com/me-no-dev/arduino-esp32fs-plugin)插件上传到esp32
+bin视频文件，使用[此工具](https://github.com/RegularTriangle/bilibil-share/tree/master/3.128x64_video_bin_create_tool)生成，并在Arduino中使用[Arduino ESP32 filesystem uploader](https://github.com/me-no-dev/arduino-esp32fs-plugin)插件上传到esp32
