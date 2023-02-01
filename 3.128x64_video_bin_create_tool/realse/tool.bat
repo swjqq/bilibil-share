@@ -1,0 +1,1 @@
+start  .\dist\tool\tool.exe
